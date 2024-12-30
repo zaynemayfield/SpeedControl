@@ -1,0 +1,6 @@
+<Bindings>
+    <!-- Define the keybinding and associate it with a Lua function -->
+    <Binding name="Change Speed" header="SPEED_CONTROL">
+        SpeedControl_Cycle()
+    </Binding>
+</Bindings>

@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Speed Control
+## Notes: A single-button addon to cycle through speeds.
+## Author: Zayne
+## Version: 1.1
+
+SpeedControl.lua
+Bindings.xml
